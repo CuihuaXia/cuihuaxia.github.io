@@ -11,7 +11,17 @@ theme:
   features:
     - navigation.tabs
     # - navigation.footer
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
   logo: logo.png
+  # favicon: assets/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+copyright: Copyright &copy; 2020 - 2025 Cuihua Xia
 extra:
   analytics:
     provider: google
@@ -19,13 +29,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CuihuaXia
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/CuihuaXia
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0002-6915-3385
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?hl=en&user=tCGP6ZkAAAAJ
-  # copyright: "© 2020–2025 Cuihua Xia"
-  # license:
-  #   name: CC BY 4.0
-  #   url: https://creativecommons.org/licenses/by/4.0/

@@ -1,4 +1,5 @@
 # PUBLICATIONS
+
 ## 2024
 1. <u>Xia C</u>, et al. **[Multi-omics analysis of endophenotypes reveals new risk genes and pathways in psychosis disorders](https://www.sciencedirect.com/science/article/pii/S0924977X24004826)**. 2024 (in preparation)
 2. <u>Xia C</u>, Alliey-Rodriguez N, Tamminga CA, Keshavan MS, Pearlson GD, Keedy SK, Clementz B, McDowell JE, Parker D, Lencer R, Hill SK, Bishop JR, Ivleva EI, Wen C, Dai R, Chen C, Liu C, Gershon ES. **[Genetic analysis of psychosis Biotypes: shared Ancestry-adjusted polygenic risk and unique genomic associations.](https://www.nature.com/articles/s41380-024-02876-z)** Mol Psychiatry. 2024 Dec 21. doi: https://doi.org/10.1038/s41380-024-02876-z. Epub ahead of print. PMID: 39709506.
@@ -15,7 +16,6 @@
 
 ## 2020
 1. Dai J, Chen Y, <u>Xia C</u>, Zhou J, Liu C, Chen C. **Digital Sensory Phenotyping for Psychiatric Disorders.** J Psychiatry Brain Sci. 2020;5:e200015. https://doi.org/10.20900/jpbs.20200015
-
 
 ## 2019
 1. Jiao C, Yan P, <u>Xia C</u>, Shen Z, Tan Z, Tan Y, Wang K, Jiang Y, Huang L, Dai R, Wei Y, Xia Y, Meng Q, Ouyang Y, Yi L, Duan F, Dai J, Zhao S, Liu C, Chen C. **BrainEXP: a database featuring with spatiotemporal expression variations and co-expression organizations in human brains.** Bioinformatics. 2019 Jan 1;35(1):172-174. doi: https://doi.org/10.1093/bioinformatics/bty576. [PMID: 29985970](https://pubmed.ncbi.nlm.nih.gov/29985970/); PMCID: PMC6298050.
