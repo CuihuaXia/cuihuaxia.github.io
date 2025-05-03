@@ -1,0 +1,13 @@
+site_name: Cuihua Xia
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Software: software.md
+  - Publications: publications.md
+  - News: news.md
+  - Blogs: blogs.md
+theme:
+  name: material  #readthedocs
+  features:
+    - navigation.tabs
+  logo: logo.png
