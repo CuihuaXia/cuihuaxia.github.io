@@ -29,7 +29,7 @@
 ## ARCHIVED
 + [好的学术汇报 PPT](https://mp.weixin.qq.com/s/LbuylhgIW06COBwMZrDqMA)
 
-> 文章编辑：TouchUMind \
+> 文章编辑：TouchUMind \ 
 版权声明：本文系原创，著作权归作者所有，遵循 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可协议。商业转载请联系作者（touchumind@outlook.com）获取授权，非商业转载请注明作者（TouchUMind）及出处（[https://cuihuaxia.github.io](https://cuihuaxia.github.io)）！
 
 本文首发于 *[微信公众号 TouchUMind](https://mp.weixin.qq.com/s/fXklTjZCudcix_M_CJ54fw)*，更新及归档于 *[https://cuihuaxia.github.io/blogs](https://cuihuaxia.github.io/blogs)*，欢迎关注和支持！
