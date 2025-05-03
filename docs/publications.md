@@ -8,7 +8,7 @@
 
 ## 2022
 1. Rizavi HS, Chase KA, Liu C, Gavin H, Rosen C, <u>Xia C</u>, Guidotti A, Sharma RP. **Differential H3K9me2 heterochromatin levels and concordant mRNA expression in postmortem brain tissue of individuals with schizophrenia, bipolar, and controls.** Front Psychiatry. 2022 Oct 26;13:1006109. doi: https://doi.org/10.3389/fpsyt.2022.1006109. [PMID: 36386965](https://pubmed.ncbi.nlm.nih.gov/36386965/); PMCID: PMC9644155.
-2. Duan F*, Zhao S*, <u>Xia C</u>*, Ren Z, Yuan N, Xie L, Wang L, Xiong Y, Yu P, Chen Y, Tian J, Dai J, Lu J, Xia Y, Liu X, Chen C, Liu C. **Changes of immune-related factors in the blood of schizophrenia and bipolar disorder patients receiving monotherapy.** Transl Psychiatry. 2022 May 26;12(1):212. doi: https://doi.org/10.1038/s41398-022-01968-0. [PMID: 35618730](https://pubmed.ncbi.nlm.nih.gov/35618730/); PMCID: PMC9135722.
+2. Duan F<sup>&dagger;</sup>, Zhao S<sup>&dagger;</sup>, <u>Xia C</u><sup>&dagger;</sup>, Ren Z, Yuan N, Xie L, Wang L, Xiong Y, Yu P, Chen Y, Tian J, Dai J, Lu J, Xia Y, Liu X, Chen C, Liu C. **Changes of immune-related factors in the blood of schizophrenia and bipolar disorder patients receiving monotherapy.** Transl Psychiatry. 2022 May 26;12(1):212. doi: https://doi.org/10.1038/s41398-022-01968-0. [PMID: 35618730](https://pubmed.ncbi.nlm.nih.gov/35618730/); PMCID: PMC9135722.
 
 ## 2021
 1. <u>Cuihua Xia</u>, Rujia Dai, Jing Yu et al. **Dysregulated Spliceosome Gene Expression May Be a Common Process in Brains of Neurological and Psychiatric Disorders**, 22 December 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1184033/v1]
