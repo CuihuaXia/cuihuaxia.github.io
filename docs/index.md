@@ -39,7 +39,7 @@ She is Cuihua Xia, a joint-PhD student at Central South University (CSU) and Uni
 - 2020-03-25 Improve functionality of this website.
 - 2020-03-25 Set up this website.
 
-#### CONTACT
+#### CONTACT ME
 Cuihua Xia cuihuaxia@uchicago.edu  
 
 Cuihua Xia xiacuihua@sklmg.edu.cn
