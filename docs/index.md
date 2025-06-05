@@ -2,8 +2,8 @@
 She is Cuihua Xia, a joint-PhD student at Central South University (CSU) and University of Chicago (UChicago).
 
 #### RESEARCH INTERESTS
-+ Statistical Genetics & Genomics
-+ Psychiatric Genetics & Genomics
++ Statistical Genetics
++ Psychiatric Genetics
 + Deciphering the Mechanisms of Neuropsychiatric Disorders through Multi-Omics, Multi-Phenotypic, and Multi-Population Approaches.
 
 *Learning about the world through critical thinking, data and programming (data-driven research).*
