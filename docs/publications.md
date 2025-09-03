@@ -1,8 +1,10 @@
 # PUBLICATIONS
+## 2025
+1. Walid Yassin, Bryan Kromenacker, James B. Green, Carol A. Tamminga, Elisabetta C. del Re, Pegah Seif, <u>Cuihua Xia</u>, Ney Alliey-Rodriguez, Elliot S. Gershon, Brett A. Clementz, Godfrey D. Pearlson, Sarah K. Keedy, Elena I. Ivleva, Scott Kristian Hill, Jennifer E. McDowell & Matcheri S. Keshavan. **Exposotypes in psychotic disorders**. Sci Rep 15, 29003 (2025). https://doi.org/10.1038/s41598-025-14438-6
 
 ## 2024
 1. <u>Xia C</u>, et al. **[Multi-omics analysis of endophenotypes reveals new risk genes and pathways in psychosis disorders](https://www.sciencedirect.com/science/article/pii/S0924977X24004826)**. 2024 (in preparation)
-2. <u>Xia C</u>, Alliey-Rodriguez N, Tamminga CA, Keshavan MS, Pearlson GD, Keedy SK, Clementz B, McDowell JE, Parker D, Lencer R, Hill SK, Bishop JR, Ivleva EI, Wen C, Dai R, Chen C, Liu C, Gershon ES. **[Genetic analysis of psychosis Biotypes: shared Ancestry-adjusted polygenic risk and unique genomic associations.](https://www.nature.com/articles/s41380-024-02876-z)** Mol Psychiatry. 2024 Dec 21. doi: https://doi.org/10.1038/s41380-024-02876-z. Epub ahead of print. PMID: 39709506.
+2. <u>Cuihua Xia</u>, Ney Alliey-Rodriguez, Carol A. Tamminga, Matcheri S. Keshavan, Godfrey D. Pearlson, Sarah K. Keedy, Brett Clementz, Jennifer E. McDowell, David Parker, Rebekka Lencer, S. Kristian Hill, Jeffrey R. Bishop, Elena I. Ivleva, Cindy Wen, Rujia Dai, Chao Chen, Chunyu Liu & Elliot S. Gershon. **Genetic analysis of psychosis Biotypes: shared Ancestry-adjusted polygenic risk and unique genomic associations**. Mol Psychiatry 30, 2673–2685 (2025). https://doi.org/10.1038/s41380-024-02876-z
 3. Xia Y, <u>Xia C</u>, Jiang Y, Chen Y, Zhou J, Dai R, Han C, Mao Z; PsychENCODE Consortium; Liu C, Chen C. **[Transcriptomic sex differences in postmortem brain samples from patients with psychiatric disorders.](https://www.science.org/doi/10.1126/scitranslmed.adh9974)** Sci Transl Med. 2024 May 29;16(749):eadh9974. [PMID: 38781321](https://pubmed.ncbi.nlm.nih.gov/38781321/).
 <!-- 4. 陈超，<u>夏翠花</u>，马腾，BrainEXP-NPD 六种神经精神疾病人脑多维度全转录组数据库及分析平台，中国（软件著作权登记号：2024SR1915276） -->
 
