@@ -42,6 +42,4 @@ She is Cuihua Xia, a joint-PhD student at Central South University (CSU) and Uni
 #### CONTACT ME
 Cuihua Xia cuihuaxia@uchicago.edu  
 
-Cuihua Xia xiacuihua@sklmg.edu.cn
-
 ---
