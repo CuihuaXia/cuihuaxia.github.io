@@ -26,7 +26,8 @@ copyright: Copyright &copy; 2020 - 2026 <a href="https://touchumind.com/">Cuihua
 extra:
   analytics:
     provider: google
-    property: G-EJR22ZQ12Q
+    # property: G-EJR22ZQ12Q
+    property: G-8XX12GVRK8
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CuihuaXia
